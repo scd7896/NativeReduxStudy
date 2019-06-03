@@ -15,3 +15,11 @@ Button.PropTypes = {
     onPress : PropTypes.func.isRequired
 }
 export default Button;
+
+
+
+
+
+
+
+
